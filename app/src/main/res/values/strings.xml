@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">findfriends</string>
+    <string name="title_activity_friends">Map</string>
+    <string name="baseUrl">http://10.0.0.234/finder/</string>
+</resources>
